@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609832434473",
+    "project_id": "feeddenoticias-c89c2",
+    "storage_bucket": "feeddenoticias-c89c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609832434473:android:54e72397e4582cc40c1538",
+        "android_client_info": {
+          "package_name": "com.feednoticias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609832434473-dqkup7aumdh77k2v7tpu8jddlgq429s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfIYBThRnmr3La_VoRvNgHg396Vdo7o-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609832434473-dqkup7aumdh77k2v7tpu8jddlgq429s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
